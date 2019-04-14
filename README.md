@@ -129,3 +129,15 @@ Stop your local cluster:
 Delete your local cluster:
 
 `minikube delete`
+
+## Helm: A package manager for Kubernetes
+
+Find details here: https://helm.sh/
+
+## Prometheus: A powerful open source monitoring and alerting system for cloud solutions
+
+Find details here: https://prometheus.io/
+
+## Grafana: An analytics platform for all your metrics
+
+Find details here: https://grafana.com/grafana
